@@ -1,0 +1,23 @@
+git init
+git status
+git status
+git add .
+git status
+git rm --cached .
+git rm --cached testing.py
+git status
+git add .
+git status
+git commit -m "first commit"
+git sttaus
+git status
+rm testing.py
+ls
+git status
+git restore testing.py
+git status
+clear
+histor
+git remote -v  
+git push origin master
+main ek naya change krra hu vs code se usy frr push krunga git hub pe 
