@@ -21,3 +21,4 @@ histor
 git remote -v  
 git push origin master
 main ek naya change krra hu vs code se usy frr push krunga git hub pe 
+chalo ab ek aur change krke dekhta hu 
